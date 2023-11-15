@@ -1,6 +1,6 @@
 
 //S1: 
-public class Solution {
+public class Compare {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
